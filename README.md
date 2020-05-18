@@ -1,4 +1,4 @@
-kbn-plugin-graph - generate elastic search documents describing kibana plugins
+kbn-plugin-graph - generate elasticsearch documents describing kibana plugins
 ================================================================================
 
 Writes elasticsearch documents describing Kibana plugins.

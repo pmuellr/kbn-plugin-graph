@@ -2,7 +2,7 @@
   "name": "kbn-plugin-graph",
   "version": "1.0.0",
   "private": true,
-  "description": "generate elastic search documents describing kibana plugins",
+  "description": "generate elasticsearch documents describing kibana plugins",
   "license": "MIT",
   "author": "Patrick Mueller <pmuellr@apache.org> (https://github.com/pmuellr)",
   "homepage": "https://github.com/pmuellr/kbn-plugin-graph",
